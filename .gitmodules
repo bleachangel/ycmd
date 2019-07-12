@@ -39,5 +39,4 @@
 	url = https://github.com/kjd/idna
 [submodule "third_party/go/src/golang.org/x/tools"]
 	path = third_party/go/src/golang.org/x/tools
-	url = https://go.googlesource.com/tools
-	ignore = dirty
+	url = https://github.com/bleachangel/go.git
